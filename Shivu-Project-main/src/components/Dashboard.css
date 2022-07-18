@@ -1,0 +1,9 @@
+.comp {
+    width: 8rem;
+    height: 2rem;
+}
+
+.but {
+    border-radius: "3px";
+    border-color: blue;
+}
